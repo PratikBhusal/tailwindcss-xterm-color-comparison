@@ -1,0 +1,15 @@
+{
+  "name": "tailwind-xterm-color-comparison",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "build": "tsx main.mts"
+  },
+  "devDependencies": {
+    "colorjs.io": "^0.6.1",
+    "tailwindcss": "^4.3.0",
+    "tsx": "^4.21.0",
+    "typescript": "~6.0.2"
+  }
+}
